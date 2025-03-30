@@ -1,0 +1,30 @@
+.image{
+    width: 100%;
+    border-radius: 5px;
+}
+.banners{
+    overflow: hidden;
+}
+.slides{
+    direction: rtl;
+    transition: transform 0.5s ease-in-out;
+
+}
+.btn-1{
+    transform: translate(3vw , -13vh);
+    border: none;
+    background: none;
+    font-size: 20px;
+    color: white;
+}
+.btn-2{
+    transform: translate(-3vw , -13vh);
+    border: none;
+    background: none;
+    font-size: 20px;
+    color: white;
+}
+.slide {
+    min-width: 100%;
+    margin: 1px;
+}
