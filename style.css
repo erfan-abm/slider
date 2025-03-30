@@ -11,14 +11,14 @@
 
 }
 .btn-1{
-    transform: translate(3vw , -13vh);
+    transform: translate(3vw , -10vh);
     border: none;
     background: none;
     font-size: 20px;
     color: white;
 }
 .btn-2{
-    transform: translate(-3vw , -13vh);
+    transform: translate(-3vw , -10vh);
     border: none;
     background: none;
     font-size: 20px;
